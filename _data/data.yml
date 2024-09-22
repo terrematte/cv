@@ -101,7 +101,8 @@ experiences:
         time: 2022 - Present
         company: Digital Metropolis Institute, Federal University of Rio Grande do Norte, Brazil.
         details: |
-         link: "https://sigaa.ufrn.br/sigaa/public/docente/disciplinas.jsf?siape=2884005"  
+         <a href="https://sigaa.ufrn.br/sigaa/public/docente/disciplinas.jsf?siape=2884005" target="_blank" rel="nofollow">Xiaoying Riley</a>
+         link: ""  
           Research interests: 
             - Machine learning
             - Artificial Intelligence
@@ -220,14 +221,12 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Machine Learning. Feature Selection. Gene Signatures. Tools for Bioinformatics. Databases.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - authors: Débora V. C. Lima; Patrick Terrematte; Beatriz Stransky  \& Adrião D. Dória Neto
+        title: n Integrated Data Analysis Using Bioinformatics and Random Forest to Predict Prognosis of Patients with Squamous Cell Carcinoma
+        link: "http://dx.doi.org/10.1109/access.2024.33922771"
+        conference: IEEE Acces, 2024. doi:10.1109/access.2024.3392277.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
@@ -262,4 +261,4 @@ skills:
         level: 60%
 
 footer: >
-    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
