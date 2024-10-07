@@ -47,17 +47,17 @@ sidebar:
         - idiom: Spanish
           level: Conversational
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+   # interests:
+   #   title: Interests
+  #    info:
+      #  - item: Climbing
+   #       link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+   #     - item: Snowboarding
+   #       link:
+#
+    #    - item: Cooking
+   #       link:
 
 career-profile:
     title: Career Profile
@@ -101,7 +101,7 @@ experiences:
         time: 2022 - Present
         company: Digital Metropolis Institute, Federal University of Rio Grande do Norte, Brazil.
         details: |
-          link: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3884005"  
+        #link: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3884005"  
           Research interests: 
             - Machine learning
             - Artificial Intelligence
