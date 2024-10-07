@@ -101,8 +101,7 @@ experiences:
         time: 2022 - Present
         company: Digital Metropolis Institute, Federal University of Rio Grande do Norte, Brazil.
         details: |
-         <a href="https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3884005" target="_blank" rel="nofollow"> UFRN professional Page</a>
-#         link: ""  
+          link: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3884005"  
           Research interests: 
             - Machine learning
             - Artificial Intelligence
