@@ -179,30 +179,30 @@ publications:
     intro: |
       Machine Learning. Feature Selection. Gene Signatures. Tools for Bioinformatics. Databases.
     papers:
-      - title: "An Integrated Data Analysis Using Bioinformatics and Random Forest to Predict Prognosis of Patients with Squamous Cell Carcinoma"
+      - title: An Integrated Data Analysis Using Bioinformatics and Random Forest to Predict Prognosis of Patients with Squamous Cell Carcinoma
         link: "http://dx.doi.org/10.1109/access.2024.33922771"
         authors: Débora V. C. Lima; Patrick Terrematte; Beatriz Stransky; Adrião D. Dória Neto.
-        conference: "IEEE Acces, 2024. doi:10.1109/access.2024.3392277".
+        conference: IEEE Acces, (2024). doi:10.1109/access.2024.3392277.
 
-      - title: "Machine Learning Gene Signature to Metastatic ccRCC Based on ceRNA Network"
+      - title: Machine Learning Gene Signature to Metastatic ccRCC Based on ceRNA Network
         link: "http://dx.doi.org/10.3390/ijms25084214"
         authors: Epitácio Farias; Patrick Terrematte; Beatriz Stransky.
-        conference: "Int. J. Mol. Sci. 2024, 25(8), 4214, doi:10.3390/ijms25084214".
+        conference: Int. J. Mol. Sci. 2024, 25(8), 4214, (2024). doi:10.3390/ijms25084214.
 
-      - title: "GENTLE: a novel bioinformatics tool for generating features and building classifiers from T cell repertoire cancer data"
+      - title: GENTLE: a novel bioinformatics tool for generating features and building classifiers from T cell repertoire cancer data
         link: "https://doi.org/10.1186/s12859-023-05155-w"
         authors: Dhiego Souto Andrade; Patrick Terrematte; César Rennó-Costa; Alona Zilberberg; Sol Efroni.
-        conference: " BMC Bioinformatics 24, 32 (2023) doi:10.1186/s12859-023-05155-w"
+        conference: BMC Bioinformatics 24, 32 (2023) doi:10.1186/s12859-023-05155-w
 
-      - title: "dbPepVar: a novel cancer proteogenomics database"
+      - title: dbPepVar: a novel cancer proteogenomics database
         link: "http://dx.doi.org/10.1109/ACCESS.2022.3201897"
         authors: Lucas Marques Da Cunha; Patrick Terrematte; Tayna Da Silva Fiuza; Vandeclécio Lira Da Silva; Sandro José De Souza; Gustavo Antônio De Souza.
-        conference: " IEEE Access, v. 1, p. 1-1, (2022) doi:10.1109/ACCESS.2022.3201897"    
+        conference: IEEE Access, v. 1, p. 1-1, (2022) doi:10.1109/ACCESS.2022.3201897   
 
-      - title: "A Novel Machine Learning 13-Gene Signature: Improving Risk Analysis and Survival Prediction for Clear Cell Renal Cell Carcinoma Patients"
+      - title: A Novel Machine Learning 13-Gene Signature: Improving Risk Analysis and Survival Prediction for Clear Cell Renal Cell Carcinoma Patients
         link: "http://dx.doi.org/10.3390/cancers14092111"
         authors: Patrick Terrematte; Dhiego Souto Andrade;  Josivan Justino; Beatriz Stransky; Daniel Sabino A. de Araújo; Adrião D. Dória Neto.
-        conference: " Cancers} 2022, 14, 2111, (2022) doi:doi:10.3390/cancers14092111"
+        conference: Cancers 2022, 14, 2111, (2022) doi:doi:10.3390/cancers14092111
 
 skills:
     title: Skills &amp; Proficiency
